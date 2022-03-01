@@ -1,3 +1,5 @@
+## SMI
+
 <img src="https://github.com/Vinicius-O-Neves/SMI/blob/main/logo.jpg">
 
  A desktop application developed in python for final work. The objective is to use computer vision and color analysis to identify if the worker is wearing PPE (personal protective equipment), but the project also uses an ultrasonic sensor to detect approaches to improper parts of the machine, which can cause an irreversible accident.
