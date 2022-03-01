@@ -5,3 +5,13 @@
  <a href="https://github.com/Vinicius-O-Neves/SMI/blob/main/Documenta%C3%A7%C3%A3o%20SMI_04_12.pdf">Download the documentation</a>
 
 <img src="https://github.com/Vinicius-O-Neves/SMI/blob/main/SMI-video.gif" width="2000" height="600">
+
+## Technologies Used:
+<table>
+  <tr>
+    <td>Python</td>
+    <td>C</td>
+    <td>Arduino</td>
+    <td>Open CV</td>
+  </tr>
+</table>
